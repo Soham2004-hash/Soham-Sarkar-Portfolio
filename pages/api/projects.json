@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "CheckUpNow",
+    "image": "/assets/icon.png",
+    "description": "An AI-powered medico application that analyzes medical test reports and determines whether a patient needs a doctor's consultation",
+    "tags": ["python", "tensorflow", "machine-learning", "healthcare", "flask"],
+    "source_code": "https://github.com/soham2004-hash/CheckUpNow",
+    "demo": "https://checkupnow.herokuapp.com/"
+  }
+]
